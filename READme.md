@@ -22,3 +22,5 @@ API for streaming the video.
 URL : http://localhost:3000
 
 Method : GET
+
+Hosted on Heroku : https://tamilnet-videostream-app.herokuapp.com/
